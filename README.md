@@ -1,5 +1,8 @@
 # GO IMAGE FILTERING TOOLKIT (GIFT)
 
+**This fork contains unstable code, use at your own risk.**
+
+
 *Package gift provides a set of useful image processing filters.*
 
 Pure Go. No external dependencies outside of the Go standard library.
